@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "https://example.org/"
+baseURL = "https://malloryfreels.github.io/"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
+title = "Mallory Freels"
 theme = "hugo-split-theme"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -25,8 +25,8 @@ googleAnalytics = ""
 
   # Section - Content
   [params.content]
-    name = "Jenny Jones"
-    tagline = "Designer. Stylist. Nomad."
+    name = "Mallory Freels"
+    tagline = "I love horses"
     bio = "Donec at libero id lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna](#) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in](#) malesuada congue, [purus sem](#) ullamcorper massa, sit amet lacinia nibh enim sed massa."
 
   # Section - Visual
